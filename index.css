@@ -13,3 +13,8 @@ main {
 #reset {
   margin: 20px;
 }
+
+/* Wrong entry check added, Stretch goal #1*/
+#wrong-entry { 
+  display: none;
+}
